@@ -1,0 +1,88 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Pluglug
+# This file is distributed under the same license as the Structured Renamer package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Structured Renamer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-27 14:51+0900\n"
+"PO-Revision-Date: 2025-04-27 14:59+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+#: ../../source/index.md:11 132a7d3f5f164616af2a8ecac213b681
+msgid "Build names, not type them."
+msgstr ""
+
+#: ../../source/index.md:18 ef56155af98e4b66a87662ca421f2bc2
+msgid ""
+"Unlike the traditional search‑and‑replace approach, Structured Renamer "
+"builds names by rearranging semantically separated name parts. This makes it "
+"easier—especially in rigging or other technical 3D projects—to keep your "
+"naming conventions consistent."
+msgstr ""
+"従来の「検索置換」型リネームとは異なり、意味的な要素に分解した名前パーツを組"
+"み替えながら名前を構築します。特にリギングやテクニカルな3Dプロジェクトにおい"
+"て、命名規則の維持が容易になります。"
+
+#: ../../source/index.md:21 3846159dfbc24a318ff0b38ba402e4f2
+msgid "Details"
+msgstr ""
+
+#: ../../source/index.md:23 8dad700206aa484db7942ce266fb93b2
+msgid "Author"
+msgstr ""
+
+#: ../../source/index.md:24 7dc2255152944f34be9daebbcbcc119c
+msgid "Pluglug"
+msgstr ""
+
+#: ../../source/index.md:26 2d914eb6b7eb41588cce425c33de4d6f
+msgid "Version"
+msgstr ""
+
+#: ../../source/index.md:27 5d4a230888014ae49b7293801a5508d8
+msgid "1.0.0"
+msgstr ""
+
+#: ../../source/index.md:29 5a9e1550f28f42c2b4143af6cf07b053
+msgid "Compatibility"
+msgstr ""
+
+#: ../../source/index.md:30 46835ba7067a4041b5771e99e6bcda4b
+msgid "Blender 4.4 - 3.6"
+msgstr ""
+
+#: ../../source/index.md:32 efcdbada93154e99971aa2778d522937
+msgid "License"
+msgstr ""
+
+#: ../../source/index.md:33 3e9350c4bf384bc1a2f201417a88385b
+msgid "GPLv3"
+msgstr ""
+
+#: ../../source/index.md:35 7b6305ffc18e451c8f54b3865dc8acdd
+msgid "Purchase"
+msgstr ""
+
+#: ../../source/index.md:36 24e9af701f2d41899c878a7dde26f01d
+msgid "[Gumroad](https://pluglug.gumroad.com/l/structured-renamer)"
+msgstr ""
+
+#: ../../source/index.md:38 38ea0c6b004c449bb24b70c7eb49bf40
+msgid "Get Help"
+msgstr ""
+
+#: ../../source/index.md:39 965cb0b40db54e02ac8a091fae6b3088
+msgid ""
+"[Blender Artists](https://blenderartists.org/t/add-on-structured-renamer/"
+"1590670)"
+msgstr ""
