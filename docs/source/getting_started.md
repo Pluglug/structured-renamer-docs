@@ -37,6 +37,12 @@
 
 Once the add-on is enabled, the "Structured Renamer" panel will appear in the **Tools** tab of the 3D Viewport's sidebar.
 
+::::{admonition} Note   
+
+Currently, Structured Renamer primarily supports renaming **Objects** and **Bones** (including EditBones and PoseBones) in the 3D Viewport. I am actively working on extending support to other editors and data types, such as the Outliner, Node Editor, Sequence Editor, and File Browser. Your feedback on which features or data types you'd like to see prioritized is highly valuable! Please share your thoughts and suggestions on the [Blender Artists](https://blenderartists.org/t/add-on-structured-renamer/1590670).
+
+::::
+
 ### Basic Renaming Procedure
 
 1.  **Select a Pattern:** Choose the naming pattern you want to use from the **Naming Patterns** dropdown at the top of the panel.
